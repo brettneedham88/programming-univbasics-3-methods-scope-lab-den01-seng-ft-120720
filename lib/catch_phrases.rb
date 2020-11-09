@@ -17,8 +17,10 @@ def link
 end
 
 def all_phrases(mario, toadstool, link)
-  
+  phrase = "It's-a me, Mario!"
+end
 
 mario
 toadstool
 link
+all_phrases
