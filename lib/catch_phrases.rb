@@ -16,8 +16,9 @@ def link
   return comment
 end
 
-def all_phrases(mario, toadstool, link)
+def all_phrases
   phrase = "It's-a me, Mario!"
+  puts phrase
 end
 
 mario
