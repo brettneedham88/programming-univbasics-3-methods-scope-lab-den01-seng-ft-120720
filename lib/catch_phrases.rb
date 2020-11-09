@@ -16,6 +16,8 @@ def link
   return comment
 end
 
+def all_phrases
+
 mario
 toadstool
 link
